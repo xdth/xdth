@@ -6,3 +6,9 @@
 </div>
 
 <img align="center" alt="Snake animation" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=xdth&color=blue&style=flat)" />
+  </a>
+</p>
